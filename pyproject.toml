@@ -1,0 +1,22 @@
+[project]
+name = "langgraph-course"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.71.0",
+    "langchain-anthropic>=0.3.22",
+    "langchain-community>=0.3.31",
+    "langchain-core>=0.3.79",
+    "langchain-openai>=0.3.35",
+    "langgraph>=0.6.10",
+    "langgraph-checkpoint-sqlite>=2.0.11",
+    "langgraph-cli[inmem]>=0.4.3",
+    "langgraph-prebuilt>=0.6.4",
+    "langgraph-sdk>=0.2.9",
+    "langsmith>=0.4.37",
+    "notebook>=7.4.7",
+    "tavily-python>=0.7.12",
+    "trustcall>=0.0.39",
+    "wikipedia>=1.4.0",
+]
