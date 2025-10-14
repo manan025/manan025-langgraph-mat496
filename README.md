@@ -25,8 +25,17 @@ Tweaks:
 - Added `node_4` from [lesson2](module1/lesson2.ipynb) in [Simple Agent example](module1/studio/simple.py)
 
 ### Lesson 4
-Link: [lesson4.py](module1/lesson4.ipynb)
+Link: [lesson4.ipynb](module1/lesson4.ipynb)
 
 Tweaks and learnings:
 - Learnt about reducers
 - Solved the classic LLM problem of counting the occurrence of letter in given text with agentic AI (overkill though)
+
+### Lesson 5
+Link: [lesson5.ipynb](module1/lesson5.ipynb)
+
+Tweaks and learnings:
+- Used router to use multiple tools
+- Understood how to route between text and different tools
+- Changed the code to include another model and try out routing
+- Also interactively visualized the model output using langgraph studio
