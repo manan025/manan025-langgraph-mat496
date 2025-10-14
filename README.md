@@ -16,3 +16,9 @@ Learnt how to create and execute nodes and edges for agentic AI
 Tweaks and learnings:
 - Added `node_4` alongside the other moods
 - Learnt how to invoke graphs and how graphs work
+
+### Lesson 3
+Explored the langgraph studio UI and learnt how to inspect graph invocations step-by-step.
+
+Tweaks:
+- Added `node_4` from [lesson2](module1/lesson2.ipynb) in [Simple Agent example](module1/studio/simple.py)
