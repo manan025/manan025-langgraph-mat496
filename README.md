@@ -18,7 +18,15 @@ Tweaks and learnings:
 - Learnt how to invoke graphs and how graphs work
 
 ### Lesson 3
+Link: [simple.py](module1/studio/simple.py)
 Explored the langgraph studio UI and learnt how to inspect graph invocations step-by-step.
 
 Tweaks:
 - Added `node_4` from [lesson2](module1/lesson2.ipynb) in [Simple Agent example](module1/studio/simple.py)
+
+### Lesson 4
+Link: [lesson4.py](module1/lesson4.ipynb)
+
+Tweaks and learnings:
+- Learnt about reducers
+- Solved the classic LLM problem of counting the occurrence of letter in given text with agentic AI (overkill though)
