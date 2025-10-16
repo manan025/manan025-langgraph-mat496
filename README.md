@@ -39,3 +39,12 @@ Tweaks and learnings:
 - Understood how to route between text and different tools
 - Changed the code to include another model and try out routing
 - Also interactively visualized the model output using langgraph studio
+
+### Lesson 6
+Link: [lesson6.ipynb](module1/lesson6.ipynb)
+
+Tweaks and learnings:
+- Learnt about ReAct
+- Learnt how to iteratively access tools until we obtain final results
+- Added another tool and ran a prompt that accesses all the tools at least once serially
+- Used langchain to check the trace of tool runs and LLMs
