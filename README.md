@@ -48,3 +48,11 @@ Tweaks and learnings:
 - Learnt how to iteratively access tools until we obtain final results
 - Added another tool and ran a prompt that accesses all the tools at least once serially
 - Used langchain to check the trace of tool runs and LLMs
+
+### Lesson 7
+Link: [lesson7.ipynb](module1/lesson7.ipynb)
+
+Tweaks and learnings:
+- Learnt how to use `persistence`/ `MemorySaver` to retain previous states as context for the follow up questions
+- Implemented another custom tool call `ascii_to_letter` and made it work with the pipeline
+- 
