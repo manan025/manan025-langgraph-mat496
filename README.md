@@ -55,4 +55,13 @@ Link: [lesson7.ipynb](module1/lesson7.ipynb)
 Tweaks and learnings:
 - Learnt how to use `persistence`/ `MemorySaver` to retain previous states as context for the follow up questions
 - Implemented another custom tool call `ascii_to_letter` and made it work with the pipeline
-- 
+
+## Module 2
+
+### Lesson 1
+Link: [lesson1.ipynb](module2/lesson1.ipynb)
+
+Tweaks and learnings:
+- Learnt how to validate type hints using PydanticState to enure the return type remains consistent
+- Learnt about dataclasses
+- Implemented an extra code to validate that PydanticState is working as expected
