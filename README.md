@@ -74,3 +74,11 @@ Tweaks and learnings:
 - Read the documentation to understand how it works
 - Learnt about custom reducer to implement own logic
 - Played around with simple examples to understand the lesson
+
+
+### Lesson 3
+Link: [lesson3.ipynb](module2/lesson3.ipynb)
+
+Tweaks and learnings:
+- Learnt how to make multiple schema including private schema, input schema and output schema
+- Tweaked the code to change output schema of the models
