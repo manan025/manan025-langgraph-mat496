@@ -65,3 +65,12 @@ Tweaks and learnings:
 - Learnt how to validate type hints using PydanticState to enure the return type remains consistent
 - Learnt about dataclasses
 - Implemented an extra code to validate that PydanticState is working as expected
+
+### Lesson 2
+Link: [lesson2.ipynb](module2/lesson2.ipynb)
+
+Tweaks and learnings:
+- Learnt how to update values in state after branching to not break the model
+- Read the documentation to understand how it works
+- Learnt about custom reducer to implement own logic
+- Played around with simple examples to understand the lesson
