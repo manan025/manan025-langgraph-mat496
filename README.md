@@ -75,10 +75,19 @@ Tweaks and learnings:
 - Learnt about custom reducer to implement own logic
 - Played around with simple examples to understand the lesson
 
-
 ### Lesson 3
 Link: [lesson3.ipynb](module2/lesson3.ipynb)
 
 Tweaks and learnings:
 - Learnt how to make multiple schema including private schema, input schema and output schema
 - Tweaked the code to change output schema of the models
+
+### Lesson 4
+Link: [lesson4.ipynb](module2/lesson4.ipynb)
+
+Tweaks and learnings:
+- Explored advanced message handling techniques in LangGraph using `MessagesState` for managing conversations
+- Learned the difference between filtering (selecting specific messages) and trimming (token-based message truncation)
+- Modified all code to work with Claude (Anthropic) instead of OpenAI - updated to use `ChatAnthropic` with claude-haiku-4-5 model
+- Added comparison example demonstrating practical differences between filtering and trimming approaches
+- Learned how to manage long-running conversations efficiently to reduce token usage and latency
