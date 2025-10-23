@@ -100,3 +100,12 @@ Tweaks and learnings:
 - Learned about threads - how they work like Slack channels to maintain separate conversation contexts
 - Added thread isolation demo showing how different thread IDs maintain completely separate conversations simultaneously
 - Understood how checkpointers save state after each step, enabling interruption and resumption of conversations
+
+### Lesson 6
+Link: [lesson6.ipynb](module2/lesson6.ipynb)
+
+Tweaks and learnings:
+- Learned how to use external database checkpointers for persistent memory beyond in memory storage
+- Understood the difference between in-memory and file-based SQLite database
+- Renamed the state field
+- Updated all prompts and helper functions
