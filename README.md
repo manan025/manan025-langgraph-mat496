@@ -109,3 +109,14 @@ Tweaks and learnings:
 - Understood the difference between in-memory and file-based SQLite database
 - Renamed the state field
 - Updated all prompts and helper functions
+
+
+## Module 3
+
+### Lesson 1
+Link: [lesson1.ipynb](module3/lesson1.ipynb)
+
+Tweaks and learnings:
+- Explored two main streaming modes
+- Created helper function to extract and display specific event metadata
+- Learned how to use langgraph sdk client to stream from deployed graphs
