@@ -120,3 +120,12 @@ Tweaks and learnings:
 - Explored two main streaming modes
 - Created helper function to extract and display specific event metadata
 - Learned how to use langgraph sdk client to stream from deployed graphs
+
+### Lesson 2
+Link: [lesson2.ipynb](module3/lesson2.ipynb)
+
+Tweaks and learnings:
+- Learned about breakpoints
+- Implemented user approval workflow to control tool execution before running
+- Configured all code to use Claude haiku 4.5
+- Explored breakpoints with LangGraph API
