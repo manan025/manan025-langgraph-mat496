@@ -129,3 +129,9 @@ Tweaks and learnings:
 - Implemented user approval workflow to control tool execution before running
 - Configured all code to use Claude haiku 4.5
 - Explored breakpoints with LangGraph API
+
+### Lesson 3
+Link: [lesson3.ipynb](module3/lesson3.ipynb)
+
+- Learnt how to use breakpoints to enable interruptions from user to update state
+- Added division feature too with the same feature set as multiplication
