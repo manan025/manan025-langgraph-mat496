@@ -135,3 +135,11 @@ Link: [lesson3.ipynb](module3/lesson3.ipynb)
 
 - Learnt how to use breakpoints to enable interruptions from user to update state
 - Added division feature too with the same feature set as multiplication
+
+### Lesson 4
+Link: [lesson4.ipynb](module3/lesson4.ipynb)
+
+Tweaks and learnings:
+- Learnt about dynamic breakpoints for runtime based conditional interruptions
+- Learnt about self interrupting graphs based on conditions evaluated within nodes
+
