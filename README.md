@@ -143,3 +143,11 @@ Tweaks and learnings:
 - Learnt about dynamic breakpoints for runtime based conditional interruptions
 - Learnt about self interrupting graphs based on conditions evaluated within nodes
 
+### Lesson 5
+Link: [lesson5.ipynb](module3/lesson5.ipynb)
+
+Tweaks and learnings:
+- Learnt to use time travel for debugging
+- Learnt about `get_state_history` to see past execution states
+- Learnt about forking
+- Added similar functionalities for modulo function
