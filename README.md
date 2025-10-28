@@ -151,3 +151,13 @@ Tweaks and learnings:
 - Learnt about `get_state_history` to see past execution states
 - Learnt about forking
 - Added similar functionalities for modulo function
+
+## Module 4
+
+### Lesson 1
+Link: [lesson1.ipynb](module4/lesson1.ipynb)
+
+Tweaks and learnings:
+- Learnt about executing multiple nodes at the same time and merge them
+- Learnt about reducers and custom reducers
+- Implemented code for Claude haiku 4.5
