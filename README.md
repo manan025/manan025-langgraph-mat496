@@ -168,3 +168,10 @@ Link: [lesson2.ipynb](module4/lesson2.ipynb)
 Tweaks and learnings:
 - Learnt about how to enable modular state management for multi agent model
 - Added code that creates 3 new logs and the output log is a complete report based on the graph
+
+### Lesson 3
+Link: [lesson3.ipynb](module4/lesson3.ipynb)
+
+Tweaks and learnings:
+- Learnt about maps to enable parallelization
+- Added code that loads jokes parallely, find the best joke in category and finds the best joke overall
