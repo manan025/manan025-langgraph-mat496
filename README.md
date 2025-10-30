@@ -161,3 +161,10 @@ Tweaks and learnings:
 - Learnt about executing multiple nodes at the same time and merge them
 - Learnt about reducers and custom reducers
 - Implemented code for Claude haiku 4.5
+
+### Lesson 2
+Link: [lesson2.ipynb](module4/lesson2.ipynb)
+
+Tweaks and learnings:
+- Learnt about how to enable modular state management for multi agent model
+- Added code that creates 3 new logs and the output log is a complete report based on the graph
