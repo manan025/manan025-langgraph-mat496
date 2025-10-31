@@ -88,7 +88,7 @@ Link: [lesson4.ipynb](module2/lesson4.ipynb)
 Tweaks and learnings:
 - Explored advanced message handling techniques in LangGraph using `MessagesState` for managing conversations
 - Learned the difference between filtering (selecting specific messages) and trimming (token-based message truncation)
-- Modified all code to work with Claude (Anthropic) instead of OpenAI - updated to use `ChatAnthropic` with claude-haiku-4-5 model
+- Modified all code to work with Claude
 - Added comparison example demonstrating practical differences between filtering and trimming approaches
 - Learned how to manage long-running conversations efficiently to reduce token usage and latency
 
@@ -96,8 +96,8 @@ Tweaks and learnings:
 Link: [lesson5.ipynb](module2/lesson5.ipynb)
 
 Tweaks and learnings:
-- Learned how to create custom state schemas by extending `MessagesState` with additional keys like `summary`
-- Learned about threads - how they work like Slack channels to maintain separate conversation contexts
+- Learned how to create custom state schemas by extending `MessagesState` with additional keys
+- Learned about threads to maintain separate conversation contexts
 - Added thread isolation demo showing how different thread IDs maintain completely separate conversations simultaneously
 - Understood how checkpointers save state after each step, enabling interruption and resumption of conversations
 
@@ -175,3 +175,12 @@ Link: [lesson3.ipynb](module4/lesson3.ipynb)
 Tweaks and learnings:
 - Learnt about maps to enable parallelization
 - Added code that loads jokes parallely, find the best joke in category and finds the best joke overall
+
+### Lesson 4
+Link: [lesson4.ipynb](module4/lesson4.ipynb)
+
+Tweaks and learnings:
+- Learnt about multi agent research assistants
+- Learnt how to enable coordination among different agents during execution
+- Used Claude 4.5 Haiku to
+- Modified all code to work with Claude
